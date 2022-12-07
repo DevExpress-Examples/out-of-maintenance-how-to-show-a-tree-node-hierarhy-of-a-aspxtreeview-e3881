@@ -4,9 +4,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Collections.Generic;
-using DevExpress.Web.ASPxClasses;
-using DevExpress.Web.ASPxTreeView;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     const string FileImageUrl = "~/Images/file.png";
